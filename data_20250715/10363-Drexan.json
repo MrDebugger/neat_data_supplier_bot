@@ -1,0 +1,13 @@
+{
+    "excel_worksheet_tabs": [
+        {
+            "Worksheet Tab": "Sheet1",
+            "Part Number": "Column C",
+            "UPC": "Column C",
+            "Description": "Column A",
+            "Cost": "Column E",
+            "Start": 32,
+            "End": 323
+        }
+    ]
+}

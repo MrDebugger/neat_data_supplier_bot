@@ -1,0 +1,11 @@
+{
+    "excel_worksheet_tabs": [
+        {
+            "Worksheet Tab": "Master",
+            "Part Number": "Column A",
+            "UPC": "Column H",
+            "Description": "Column C",
+            "Cost": "Column G"
+        }
+    ]
+}
